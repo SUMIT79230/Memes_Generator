@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+
+.heading
+{
+width:90%;
+background-color: black;
+color:white;
+text-align:right;
+font-weight: bolder;
+padding:10px 50px;
+margin-left:2%;
+border:solid 1px;
+border-radius: 20px;
+justify-items: center;
+}
+
+.Components
+{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

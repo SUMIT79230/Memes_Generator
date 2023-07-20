@@ -1,0 +1,37 @@
+.Component_2
+{
+    min-height: 100px;
+    background-color:rgb(255, 201, 219);
+    padding:10px 50px;
+    font-weight:large;
+    border:solid 2px white;
+    border-radius : 10px;
+
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.generate_btn
+{
+    background-color:white;
+
+    margin-top: 2px;
+    padding:6px;
+
+    border: 2px solid black; 
+    border-radius:5px;
+}
+
+.text_input
+{
+    margin-top: 15px;
+    border : 1px solid black;
+    border-radius: 5px;
+}
